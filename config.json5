@@ -1,8 +1,8 @@
 {
-    "auth": "",
+    "auth": "ywmz0d/oyaZsfbajveDgr1UIEso0oCqdJhL4Xqxz0HgWAONcI5+3UJIh0sstXUexYo7drTpN0ea8N/iWEEis51II6Bs5GmI/C8ow2kR8f5wZiQz4p+kizur7rwpXmyhswYYL3lFPwrFJH84fFuxJ6nJO6HyybNDOGEddhS4e5gL5CGg5smvw4y+FgSftBcnDF3h/tJIDEjaiV6MKLWq/8aBgawiGyYiWce+kq5IIdvuWy7N6fAFGFmfNRMLUDPlEBHScACQ0YBNCvjmxfPwzHVvp/fCYP2ugeQKcAFcukkzw0mwZOvHYl2eX4Suk8Vm89PPEOn+22OBmalhIYTVI1cVw1UScZUlCUtAdIrN369SuCJanajaI5M0FVfan2cM1",
     "bet": {
         "tries": 12,
-        "startingBet": 0,
+        "startingBet": 1,
         "autoCashout": 2
     },
     "rain": {
